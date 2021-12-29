@@ -9,5 +9,6 @@ class HelloTest {
     void foo(){
         Hello hello = new Hello();
         Assertions.assertEquals(3, hello.sum(2,1));
+        //TESTTESTETS
     }
 }
